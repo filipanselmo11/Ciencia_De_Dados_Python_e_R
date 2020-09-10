@@ -1,0 +1,11 @@
+_idade;_faixa etária;_sexo;_bairro;_classificacao;_comorb_renal;_comorb_diabetes;_comorb_imuno;_comorb_cardio;_conclusao;_dt_notificacao;_taxa;_dt_evolucao;_raca;_dt_sintomas;_criterio;_tipo_teste;_sintoma_garganta;_sintoma_dispneia;_sintoma_febre;_sintoma_tosse;_sintoma_outros;_etnia;_profiss_saude;_srag;_se_notificacao;_distrito;_bairro_mapa;_comorb_respiratoria;_comorb_cromossomica;_comorb_hepatica;_comorb_neurologica;_comorb_hemato;_comorb_obessidade;_origem;_evolução
+74;70a - 79a;M;;Confirmado;Não;Não;Não;Não;;04/05/2020;;;;18/04/2020;;TESTE RÁPIDO - ANTICORPO;Não;Não;Não;Sim;Não;;Não;;19;;;Não;Não;;;;;eSUS VE, ;
+51;50a - 59a;F;ALEIXO;Confirmado;Não;Não;Não;Não;;04/05/2020;0,444325958;;;23/04/2020;;TESTE RÁPIDO - ANTICORPO;Não;Não;Sim;Não;Não;;Não;;19;SUL;ALEIXO;Não;Não;;;;;eSUS VE, ;
+53;50a - 59a;M;PARQUE10;Confirmado;Não;Não;Não;Não;;04/05/2020;0,228326141;;Parda;22/04/2020;;TESTE RÁPIDO - ANTICORPO;Não;Não;Sim;Não;Não;;Não;;19;SUL;PARQUE 10 DE NOVEMBRO;Não;Não;;;;;eSUS VE, ;
+50;50a - 59a;M;SAO JORGE;Em análise;Não;Não;Não;Não;Recuperado;04/05/2020;0,381446445;;Branca;30/03/2020;;;Não;Sim;Sim;Sim;Sim;;Não;;19;OESTE;SÃO JORGE;Não;Não;;;;;eSUS VE, ;
+37;30a - 39a;F;;Em análise;Não;Não;Não;Não;Recuperado;04/05/2020;;;Branca;30/04/2020;;;Não;Não;Sim;Sim;Não;;Não;;19;;;Não;Não;;;;;eSUS VE, ;
+81;80a ou +;M;;Confirmado;Não;Não;Não;Não;;03/05/2020;;;;20/04/2020;;TESTE RÁPIDO - ANTICORPO;Não;Não;Não;Não;Sim;;Não;;19;;;Não;Não;;;;;eSUS VE, ;
+44;40a - 49a;M;COMPENSA;Confirmado;Não;Não;Não;Não;;03/05/2020;0,108867236;;Parda;20/04/2020;;TESTE RÁPIDO - ANTICORPO;Não;Não;Não;Não;Sim;;Não;;19;OESTE;COMPENSA;Não;Não;;;;;eSUS VE, ;
+40;40a - 49a;F;BETHANIA;Descartado;Não;Não;Não;Não;Recuperado;03/05/2020;0,801603206;;Parda;21/04/2020;;TESTE RÁPIDO - ANTICORPO;Sim;Não;Sim;Sim;Sim;;Sim;;19;SUL;BETÂNIA;Não;Não;;;;;eSUS VE, ;
+22;20a - 29a;F;TARUMA;Confirmado;Não;Não;Não;Não;;03/05/2020;0,243042897;;Indigena;16/04/2020;;TESTE RÁPIDO - ANTICORPO;Sim;Não;Sim;Sim;Sim;;Sim;;19;OESTE;TARUMÃ;Não;Não;;;;;eSUS VE, ;
+48;40a - 49a;F;PRACA 14 DE JANEIRO;Confirmado;Não;Não;Não;Não;;03/05/2020;0,861920359;;;19/04/2020;;RT-PCR;Não;Não;Sim;Sim;Não;;Não;;19;SUL;PRAÇA 14 DE JANEIRO;Não;Não;;;;;eSUS VE, ;
